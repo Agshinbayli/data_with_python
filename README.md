@@ -1,2 +1,2 @@
-# data_with_python
-Some basic pyhton codes
+
+Some basic machine learning algorithms and use cases with pyhton. enjoy :D
